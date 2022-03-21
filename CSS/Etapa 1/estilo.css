@@ -1,0 +1,24 @@
+* {
+    color: red;
+}
+h1{
+    color: blue;
+}
+.Texto-h2{
+    color: yellow;
+}
+#uwu{
+    color: pink;
+}
+[rancio="sii"]{
+    color: brown;
+}
+h3 b{
+    color: green;
+}
+.h3-p p{
+    color: blue;
+}
+h1:hover{
+    color: red;
+}

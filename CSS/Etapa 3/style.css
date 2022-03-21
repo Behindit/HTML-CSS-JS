@@ -1,0 +1,15 @@
+.contact-form {
+    color: grey;
+}
+
+.contact-form__input{
+    color: red;
+}
+
+.contact-form__input:first-child{
+    color: pink;
+}
+
+.contact-form__input-active{
+    color: blue;
+}
